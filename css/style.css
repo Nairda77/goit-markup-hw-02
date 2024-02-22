@@ -1,6 +1,6 @@
 :root {
-    color: rgb(0, 0, 0);
-    --link-color-hover: rebeccapurple;
+    color: #000000;
+    --link-color-hover: #404BBF;
     --heading-font-family:"Raleway", sans-serif;
     --text-font-family:"Roboto", sans-serif;
 }
